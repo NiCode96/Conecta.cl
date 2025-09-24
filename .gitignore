@@ -1,0 +1,24 @@
+# Archivos de entorno
+.env
+.env.*
+*.env
+
+# Dependencias
+node_modules/
+
+# Builds de Next.js
+.next/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Otros
+*.sqlite
+*.sqlite-journal
